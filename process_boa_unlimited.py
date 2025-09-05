@@ -27,6 +27,4 @@ with DAG(
         bash_command="bash " + script + year + month + "boa_unlimited" + env
     )
 
-    
-
     load
